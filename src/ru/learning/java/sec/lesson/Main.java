@@ -8,23 +8,23 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("TASK 1");
-        //changenum();
+        changenum();
         System.out.println();
 
         System.out.println("TASK 2");
-        //massx3();
+        massx3();
         System.out.println();
 
         System.out.println("TASK 3");
-        //mulby2();
+        mulby2();
         System.out.println();
 
         System.out.println("TASK 4");
-        //square();
+        square();
         System.out.println();
 
         System.out.println("TASK 5");
-        //minandmax();
+        minandmax();
         System.out.println();
 
         System.out.println("TASK 6");
